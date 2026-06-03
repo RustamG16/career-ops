@@ -1,0 +1,98 @@
+# Rustam Gurbanov — career-ops profile
+
+candidate:
+  full_name: "Rustam Gurbanov"
+  email: "rustam.gurbanov016@gmail.com"
+  phone: "+436763492193"
+  location: "Klagenfurt, Kärnten, Austria"
+  linkedin: "https://www.linkedin.com/in/rustam-gurbanov016/"
+  portfolio_url: "https://rustamportfolio.netlify.app/"
+  github: "https://github.com/RustamG16"
+
+target_roles:
+  primary:
+    - "Software Engineer"
+    - "Full-stack Developer"
+    - "Frontend Developer"
+  archetypes:
+    - name: "Full-stack Developer"
+      level: "Mid"
+      fit: primary
+    - name: "Frontend Developer"
+      level: "Mid"
+      fit: primary
+    - name: "Software Engineer"
+      level: "Mid"
+      fit: primary
+    - name: "DevOps / Platform Engineer"
+      level: "Mid"
+      fit: secondary
+    - name: "Digitalization Engineer"
+      level: "Mid"
+      fit: secondary
+    - name: "QA / Test Automation Engineer"
+      level: "Mid"
+      fit: secondary
+
+narrative:
+  headline: "Full-stack QM engineer — React/Refine, Playwright, OpenShift, chip-grouping @ Infineon"
+  exit_story: >
+    Banking frontend → Infineon Villach full-stack digitalization (QMhub, chip grouping,
+    gamified tutorials). Solo OpenShift deploys, KNIME award. AAU master's thesis on
+    Playwright + Stryker + LLM-assisted E2E QA for industrial tutorial workflows.
+    Available immediately; thesis finishing Mar 2026.
+  superpowers:
+    - "Production full-stack: React/Refine + C#/Node/MySQL/Denodo + OpenShift solo deploy"
+    - "Test automation — Playwright E2E, mutation testing (Stryker), LLM-assisted maintenance"
+    - "Gamified UX in enterprise QM — Shepherd.js tutorials users actually follow"
+  proof_points:
+    - name: "Chip grouping / QMhub @ Infineon"
+      url: ""
+      hero_metric: "Industrial QM tool with embedded tutorials — thesis research system"
+    - name: "MSc thesis — E2E + mutation + LLM QA"
+      url: "local:jds/thesis-expose-rustam-gurbanov.md"
+      hero_metric: "Playwright + Stryker + Copilot on real Infineon QM app"
+    - name: "IFX-KNIME Pioneer Award 2024"
+      url: ""
+      hero_metric: "Won Infineon KNIME use case contest"
+    - name: "Portfolio"
+      url: "https://rustamportfolio.netlify.app/"
+      hero_metric: "Care4Students, Edu4Students, ArkEthos, Blazor learning platform"
+    - name: "GitHub"
+      url: "https://github.com/RustamG16"
+      hero_metric: "7 public repos — React/TS portfolio and education apps"
+
+compensation:
+  target_range: "€2.500–3.000 net/month (clean)"
+  currency: "EUR"
+  minimum: "€2.500 net/month (clean)"
+  notes: >
+    Previous Infineon student full-time: €2.200 net/month.
+    When negotiating gross in AT ads, ≈ €42k–52k gross/year depending on
+    Steuerklasse, 13./14. Gehalt, and benefits — always confirm net take-home.
+  location_flexibility: "Full remote EU; on-site Klagenfurt/Villach; Graz mostly remote (rare on-site)"
+
+location:
+  country: "Austria"
+  city: "Klagenfurt"
+  timezone: "CET"
+  visa_status: "Based in Austria (AAU master's); previously full-time at Infineon on student contract — confirm work permit with next employer if needed"
+  preferred_regions:
+    - "Klagenfurt"
+    - "Villach"
+    - "Graz (mostly remote, rare on-site)"
+    - "Remote (Austria / EU)"
+  onsite_availability: "Local Kärnten/Steiermark on-site OK; Graz prefer ≥80% remote"
+
+language:
+  primary: both
+  modes_dir: modes
+  notes: "Use modes/de for German job postings; default English modes for international remote roles"
+
+job_search:
+  status: "Active — available immediately"
+  availability: "Ready from tomorrow"
+  notice_period: "None — Infineon student contract ended 2026-04-01"
+  thesis: "Exposé on file — E2E/mutation/LLM QA for Infineon QM tutorials; Mar 2026 completion; full-time OK in parallel"
+  thesis_expose: "jds/thesis-expose-rustam-gurbanov.md"
+  pending_docs: ""
